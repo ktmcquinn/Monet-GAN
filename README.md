@@ -1,6 +1,6 @@
 # Monet Style Transfer using CycleGAN 
 
-This project applies Monet’s artistic style to photographs using CycleGANs trained on the "I’m Something of a Painter Myself" Kaggle dataset.
+This project applies Monet’s artistic style to photographs using CycleGANs trained on the "I’m Something of a Painter Myself" Kaggle [dataset](https://www.kaggle.com/competitions/gan-getting-started).
 
 ##  Dataset
 - 300 Monet paintings (JPEG)

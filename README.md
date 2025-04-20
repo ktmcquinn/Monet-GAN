@@ -12,7 +12,7 @@ This project applies Monet’s artistic style to photographs using CycleGANs tra
 - Losses: adversarial, cycle-consistency, identity
 
 ##  Evaluation
-- MiFID score: `XXXXXXXXXXXX`
+- MiFID score: `90.39`
 - Visual inspection confirms style transfer fidelity
 
 ##  Usage
